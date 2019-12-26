@@ -1,0 +1,6 @@
+C:\Users\dora_\source\repos\LeerEventos\LeerEventos\bin\Debug\LeerEventos.exe.config
+C:\Users\dora_\source\repos\LeerEventos\LeerEventos\bin\Debug\LeerEventos.exe
+C:\Users\dora_\source\repos\LeerEventos\LeerEventos\bin\Debug\LeerEventos.pdb
+C:\Users\dora_\source\repos\LeerEventos\LeerEventos\obj\Debug\LeerEventos.csprojAssemblyReference.cache
+C:\Users\dora_\source\repos\LeerEventos\LeerEventos\obj\Debug\LeerEventos.exe
+C:\Users\dora_\source\repos\LeerEventos\LeerEventos\obj\Debug\LeerEventos.pdb
